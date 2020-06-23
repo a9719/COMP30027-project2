@@ -7,3 +7,6 @@ MLP - resultmlp1.csv
 MultnomialNB- resultmultinomial.csv
 
 SGDclassifier - resultsgd.csv
+
+
+Received H1 marks for the assignment @University of Melbourne
